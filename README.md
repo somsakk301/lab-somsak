@@ -1,1 +1,3 @@
 # lab-somsak
+
+hello world
